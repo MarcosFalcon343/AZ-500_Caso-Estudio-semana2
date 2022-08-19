@@ -11,6 +11,7 @@
 
 La sub contiene estás directivas:
 |Policy definition| Resource type| Scope|
+|--|--|--|
 |Allowed resource types| networkSecurityGroups|RG4|
 |Not allowed resource types| networkSecurity/subnets|RG5|
 |Not allowed resource types| virtualNetworks/virtualNetworkPeerings|RG6|
