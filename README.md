@@ -3,6 +3,7 @@
 ## Ambientes
 ### Ambiente sub 1
 |Name|Resource group|
+|--|--|
 |VNET1|RG1|
 |VNET2|RG2|
 |VNET3|RG3|
