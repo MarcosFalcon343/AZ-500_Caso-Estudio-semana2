@@ -14,4 +14,13 @@ La sub contiene estás directivas:
 |--|--|--|
 |Allowed resource types| networkSecurityGroups|RG4|
 |Not allowed resource types| networkSecurity/subnets|RG5|
+|Not allowed resource types| networkSecurityGroups|RG5|
 |Not allowed resource types| virtualNetworks/virtualNetworkPeerings|RG6|
+
+La sub contiene estos bloqueos
+|Name|Set on| Lock type|
+|--|--|--|
+|Lock1|RG1|Delete|
+|Lock2|RG2|Read-only|
+|Lock3|RG3|Delete|
+|Lock4|RG3|Read-only|
